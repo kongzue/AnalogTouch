@@ -4,6 +4,8 @@
 ##简介
 使用悬浮窗来进行定位和控制的一款模拟自动点击的APP
 
+![](https://github.com/kongzue/AnalogTouch/master/app/src/main/res/drawable/screenshot.png)  
+
 ##版本与作者
 v1.0
 Powered by Kongzue
